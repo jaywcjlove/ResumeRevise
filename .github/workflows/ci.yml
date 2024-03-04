@@ -25,7 +25,7 @@ jobs:
           openSource: https://github.com/jaywcjlove/ResumeRevise
           tocs: false
           sideEffectFiles:
-            - README.zh.md
+            - README-zh.md
           element: 
             wrapper: style=max-width:720px;
           menus:
