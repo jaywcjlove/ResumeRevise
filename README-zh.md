@@ -9,11 +9,8 @@
 		使用我们的可视化编辑器，您可以轻松定制您的简历，以满足您的个人求职需求和风格偏好。
 	</p>
 	<br />
-	<br />
 </div>
 
-<br />
-<br />
 <div align="center">
 	<img alt="SymbolScribe Screenshots" src="https://github.com/jaywcjlove/ResumeRevise/assets/1680273/3e416117-d420-4ea3-94ca-73c3e50a1d50" />
 	<img alt="SymbolScribe Screenshots" src="https://github.com/jaywcjlove/ResumeRevise/assets/1680273/4c0f2899-1d4b-4d84-9a75-be331864ab7d" />
@@ -21,7 +18,6 @@
 	<img alt="SymbolScribe Screenshots" src="https://github.com/jaywcjlove/ResumeRevise/assets/1680273/d918c032-c691-40ab-b7dd-327547e1f8e5" />
 	<img alt="SymbolScribe Screenshots" src="https://github.com/jaywcjlove/ResumeRevise/assets/1680273/0b8e7b79-5f83-4e64-8c87-2965a5580dca" />
 </div>
-<br />
 <br />
 
 ## 专为 Mac 打造
