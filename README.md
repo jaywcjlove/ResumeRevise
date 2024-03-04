@@ -3,7 +3,7 @@
 <div align="center">
 	<br />
 	<br />
-	<img src="./assets/logo.png" width="160" height="160" />
+	<img src="./assets/Resume_Revise_1024.png" width="160" height="160" />
 	<h1>Resume Revise</h1>
 	<p>
 		With our visual editor, you can easily customize your resume to fit your individual job hunting needs and stylistic preferences.

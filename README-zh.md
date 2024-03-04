@@ -3,7 +3,7 @@
 <div align="center">
 	<br />
 	<br />
-	<img src="./assets/logo.png" width="160" height="160" />
+	<img src="./assets/Resume_Revise_1024.png" width="160" height="160" />
 	<h1>简历制作工具</h1>
 	<p>
 		使用我们的可视化编辑器，您可以轻松定制您的简历，以满足您的个人求职需求和风格偏好。
