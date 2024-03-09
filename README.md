@@ -5,11 +5,15 @@
 	<br />
 	<img src="./assets/Resume_Revise_1024.png" width="160" height="160" />
 	<h1>Resume Revise</h1>
-	<p>
-		With our visual editor, you can easily customize your resume to fit your individual job hunting needs and stylistic preferences.
-	</p>
-	<br />
 </div>
+
+With our visual editor, you can easily customize your resume to fit your individual job hunting needs and stylistic preferences.
+
+<a target="_blank" href="https://apps.apple.com/app/resumerevise/id6476400184" title="Iconize Folder for macOS">
+  <img alt="DevHub AppStore" src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1705968000" height="51">
+</a>
+
+## SymbolScribe Screenshots
 
 <div align="center">
 	<img alt="SymbolScribe Screenshots" src="./assets/screenshots-1.png" />
