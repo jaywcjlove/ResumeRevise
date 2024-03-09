@@ -13,7 +13,7 @@ With our visual editor, you can easily customize your resume to fit your individ
   <img alt="DevHub AppStore" src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1705968000" height="51">
 </a>
 
-## SymbolScribe Screenshots
+## Screenshots
 
 <div align="center">
 	<img alt="SymbolScribe Screenshots" src="./assets/screenshots-1.png" />
