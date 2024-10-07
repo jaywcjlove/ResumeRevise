@@ -9,8 +9,8 @@
 
 With our visual editor, you can easily customize your resume to fit your individual job hunting needs and stylistic preferences.
 
-<a target="_blank" href="https://apps.apple.com/app/resumerevise/id6476400184" title="Iconize Folder for macOS">
-  <img alt="DevHub AppStore" src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1705968000" height="51">
+<a target="_blank" href="https://apps.apple.com/app/resumerevise/id6476400184" title="ResumeRevise for macOS">
+  <img alt="ResumeRevise for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
 ## Screenshots
