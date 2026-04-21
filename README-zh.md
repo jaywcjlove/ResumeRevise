@@ -9,7 +9,7 @@
 
 使用我们的可视化编辑器，您可以轻松定制您的简历，以满足您的个人求职需求和风格偏好。
 
-<a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=id6476400184" title="Iconize Folder for macOS">
+<a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6476400184" title="Iconize Folder for macOS">
   <img alt="DevHub AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 

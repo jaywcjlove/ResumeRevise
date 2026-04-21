@@ -9,7 +9,7 @@
 
 With our visual editor, you can easily customize your resume to fit your individual job hunting needs and stylistic preferences.
 
-<a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=id6476400184" title="Iconize Folder for macOS">
+<a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6476400184" title="Iconize Folder for macOS">
   <img alt="DevHub AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
