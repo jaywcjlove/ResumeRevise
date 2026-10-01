@@ -1,27 +1,31 @@
-[中文](./README-zh.md)
-
 <div align="center">
-	<br />
-	<br />
-	<img src="./assets/Resume_Revise_1024.png" width="160" height="160" />
-	<h1>Resume Revise</h1>
+  <br />
+  <br />
+  <img src="./assets/logo.png" width="160" height="160">
+  <h1>
+    Resume Revise
+  </h1>
+  <!--rehype:style=border: 0;-->
+  <p>
+    <a href="./README.zh.md">简体中文</a> • 
+    <a target="_blank" href="https://github.com/jaywcjlove/focus-cursor/issues/new?template=bug_report.yml">Contact & Support</a> • 
+    <a href="./CHANGELOG.md">Changelog</a>
+  </p>
+  <p>
+    <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6476400184" title="Resume Revise for macOS">
+      <img alt="Resume Revise AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
+    </a>
+  </p>
 </div>
 
 With our visual editor, you can easily customize your resume to fit your individual job hunting needs and stylistic preferences.
 
-<a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6476400184" title="Iconize Folder for macOS">
-  <img alt="DevHub AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
-</a>
-
 ## Screenshots
 
-<div align="center">
-	<img alt="SymbolScribe Screenshots" src="./assets/screenshots-1.png" />
-	<img alt="SymbolScribe Screenshots" src="./assets/screenshots-2.png" />
-	<img alt="SymbolScribe Screenshots" src="./assets/screenshots-3.png" />
-	<img alt="SymbolScribe Screenshots" src="./assets/screenshots-4.png" />
-</div>
-<br />
+![Resume Revise 1](./assets/screenshots-1.png)
+![Resume Revise 2](./assets/screenshots-2.png)
+![Resume Revise 3](./assets/screenshots-3.png)
+![Resume Revise 4](./assets/screenshots-4.png)
 
 ## Built for Mac
 

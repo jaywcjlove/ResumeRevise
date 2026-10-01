@@ -8,11 +8,32 @@ jobs:
   build-deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6
-      - uses: actions/setup-node@v6
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
         with:
           node-version: 24
           registry-url: 'https://registry.npmjs.org'
+          
+      - name: Create Tag
+        id: create_tag
+        uses: jaywcjlove/create-tag-action@main
+        with:
+          test: '[R|r]elease[d]\s+[v|V]\d(\.\d+){0,2}'
+
+      - name: Create Released Tag
+        uses: jaywcjlove/create-tag-action@main
+        with:
+          version: ${{ steps.create_tag.outputs.version }}
+          release: true
+          body: |
+            <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6476400184" title="Resume Revise for macOS">
+              <img alt="Resume Revise AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
+            </a>
+
+      - name: Get latest tag
+        id: get_latest_tag
+        run: echo "LATEST_TAG=$(git describe --tags $(git rev-list --tags --max-count=1))" >> $GITHUB_ENV
+
 
       - name: Create idoc config.
         run: |
@@ -23,11 +44,30 @@ jobs:
           favicon: assets/logo.png
           logo: ./assets/logo.png
           openSource: https://github.com/jaywcjlove/ResumeRevise
+          homepage: https://wangchujiang.com/ResumeRevise/
           tocs: false
           sideEffectFiles:
-            - README-zh.md
+            - README.md
+            - README.zh.md
+            - CHANGELOG.md
+            - CHANGELOG.zh.md
           element: 
             wrapper: style=max-width:720px;
+          meta:
+            - <meta name="author" content="Kenny Wong">
+            - <meta property="og:site_name" content="<%= site %>">
+            - <meta property="og:url" content="<%=homepage%><%=RESOLVE_PATH%>">
+            - <meta property="og:image" content="<%=homepage%>assets/social-preview.jpeg">
+            - <meta property="og:type" content="application">
+            - <meta property="og:title" content="<%= site %>">
+            - <meta property="og:description" content="<%= description%>">
+            - <meta property="twitter:image:src" content="<%=homepage%>assets/social-preview.jpeg">
+            - <meta property="twitter:site" content="@jaywcjlove">
+            - <meta property="twitter:creator" content="jaywcjlove">
+            - <meta property="twitter:card" content="summary_large_image">
+            - <meta property="twitter:title" content="<%= site %> - <%= description%>">
+            - <meta property="twitter:description" content="<%= description%>">
+            - <meta name="apple-itunes-app" content="app-id=6743495172">
           menus:
             Home: index.html
             Apps: 
@@ -46,6 +86,7 @@ jobs:
 
       - run: npm install idoc@1 -g
       - run: idoc
+      - run: cp -rp assets/social-preview.jpeg dist/assets/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
