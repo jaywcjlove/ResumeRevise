@@ -13,12 +13,12 @@
   <!--rehype:style=border: 0;-->
   <p>
     <a href="./README.zh.md">简体中文</a> • 
-    <a target="_blank" href="https://github.com/jaywcjlove/focus-cursor/issues/new?template=bug_report.yml">Contact & Support</a> • 
+    <a target="_blank" href="https://github.com/jaywcjlove/ResumeRevise/issues/new?template=bug_report.yml">Contact & Support</a> • 
     <a href="./CHANGELOG.md">Changelog</a>
   </p>
   <p>
-    <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6476400184" title="Resume Revise for macOS">
-      <img alt="Resume Revise AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
+    <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6476400184" title="ResumeRevise for macOS">
+      <img alt="ResumeRevise AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
     </a>
   </p>
 </div>
@@ -27,10 +27,10 @@ With our visual editor, you can easily customize your resume to fit your individ
 
 ## Screenshots
 
-![Resume Revise 1](./assets/screenshots-1.png)
-![Resume Revise 2](./assets/screenshots-2.png)
-![Resume Revise 3](./assets/screenshots-3.png)
-![Resume Revise 4](./assets/screenshots-4.png)
+![ResumeRevise 1](./assets/screenshots-1.png)
+![ResumeRevise 2](./assets/screenshots-2.png)
+![ResumeRevise 3](./assets/screenshots-3.png)
+![ResumeRevise 4](./assets/screenshots-4.png)
 
 ## Built for Mac
 
