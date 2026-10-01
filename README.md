@@ -1,3 +1,8 @@
+<!--idoc:ignore:start-->
+> [!TIP]
+> Declaration: This project is not an open-source project. The repository serves as the official website, used to collect issues and user demands. This is done to save costs, because without an official website, the application cannot pass the review.
+<!--idoc:ignore:end-->
+
 <div align="center">
   <br />
   <br />
@@ -34,3 +39,5 @@ As a native Mac app, Resumake offers you the best user experience the platform h
 ## Privacy First
 
 No information leaves your Mac. No logins are required either.
+
+<!--version: v1.0.0-->
