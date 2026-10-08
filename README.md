@@ -40,4 +40,8 @@ As a native Mac app, Resumake offers you the best user experience the platform h
 
 No information leaves your Mac. No logins are required either.
 
+## Resume Builder, Powered by AI
+
+The resume builder supports **[MCP](https://modelcontextprotocol.io) (Model Context Protocol)**. Connect it to AI clients such as Claude, Cursor, or Grok to search, view, and edit resumes using natural language.
+
 <!--version: v1.0.0-->

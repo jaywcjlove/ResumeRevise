@@ -37,3 +37,8 @@
 ## 隐私第一
 
 Mac 不会泄露任何信息，也无需登录。
+
+## 简历制作工具，拥抱AI能力
+
+简历制作工具 支持 **[MCP](https://modelcontextprotocol.io)（模型上下文协议，Model Context Protocol）**。将它接入 Claude、Cursor、Grok 等 AI 客户端后，你就可以用自然语言实现简历搜索、查看、修改。
+
